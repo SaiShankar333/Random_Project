@@ -1,0 +1,12 @@
+{
+    "accuracy": 0.935,
+    "precision": 0.942,
+    "recall": 0.918,
+    "f1_score": 0.9299,
+    "roc_auc": 0.9812,
+    "true_negatives": 7298,
+    "false_positives": 368,
+    "false_negatives": 421,
+    "true_positives": 4712,
+    "model_type": "random_forest"
+}
